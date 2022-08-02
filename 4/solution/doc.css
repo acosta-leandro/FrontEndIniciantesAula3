@@ -1,0 +1,18 @@
+.linha{
+    display: flex;
+    justify-content: space-between;
+
+}
+.coluna {
+
+}
+
+.novoCss{
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+#purple{
+    background-color: purple !important;
+}
+

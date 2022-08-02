@@ -1,0 +1,28 @@
+.main{
+    display: flex;
+    justify-content: space-around;
+}
+.coluna{
+    display: flex;
+    flex-direction: column;
+    background-color: yellow;
+    height: 100%;
+    width: 40%;
+    justify-content: space-between;
+}
+.reverse{
+    flex-direction: column-reverse;
+}
+.um{
+    background-color: red;
+}
+.dois{
+    background-color: blue;
+}
+.tres{
+    background-color: green;
+}
+.item {
+    height: 25%;
+}
+

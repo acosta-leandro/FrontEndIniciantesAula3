@@ -1,0 +1,32 @@
+.main{
+    display: flex;
+    justify-content: space-around;
+}
+.linha{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+.coluna{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 45%;
+    justify-content: space-around;
+}
+
+.red{
+    background-color: red;
+}
+.orange{
+    background-color: orange;
+}
+.cyan{
+    background-color: cyan;
+}
+.purple{
+    background-color: purple;
+}
+
+

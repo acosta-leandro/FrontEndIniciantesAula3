@@ -1,0 +1,10 @@
+.pai{
+    margin: 30px;
+    border: purple 15px solid;
+    padding: 100px;
+    background-color: yellow;
+}
+.filho{
+    border: red 15px dashed;
+    background-color: green;
+}

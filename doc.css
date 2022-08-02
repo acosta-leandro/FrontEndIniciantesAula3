@@ -1,0 +1,13 @@
+#ide{
+    color: blue;
+    border: 10px solid purple;
+    margin: 50px;
+    padding: 25px;
+    display: flex;
+    width: 100px;
+}
+.classe{
+    background: pink;
+}
+div{
+}

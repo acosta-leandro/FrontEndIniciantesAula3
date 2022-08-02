@@ -1,0 +1,13 @@
+.bolinha{
+    border-radius: 50%;
+}
+
+
+#triangulo{
+    width: 0 !important;
+    height: 0 !important;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-bottom: 50px solid blue;
+    background: unset !important;
+}
